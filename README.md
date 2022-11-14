@@ -3,5 +3,5 @@
 Solutions for 36th Cloudflight Coding Contest 2022
 AI category
 
-Team Apes Together Strong (+ <a href="https://github.com/flixmk">@flixmk</a> and <a href="https://github.com/ervin007">@ervin007</a>)
+Team Apes Together Strong (+ <a href="https://github.com/flixmk">@flixmk</a> and <a href="https://github.com/ervin007">@ervin007</a>) </br>
 1. rank in Linz, 18. rank worldwide
